@@ -309,7 +309,8 @@ robot -d ./log ./tests/api_users.robot
 
 ```
 
-**>> Inserir imagem de execução <<**
+
+![06_Execucao_OK](https://github.com/moiseschiaretto/Robot_API/assets/84775466/a9af666b-0b53-4338-9824-07281306bd16)
 
 
 
@@ -323,4 +324,17 @@ robot -d ./log ./tests/api_users.robot
 
 - Outra forma é localizar e abrir o arquivo **log.html**
 
-**>> Inserir imagem de log / report <<**
+
+
+![07_LOG](https://github.com/moiseschiaretto/Robot_API/assets/84775466/007be9aa-8502-427d-a00e-d1e3a13cb1ea)
+
+
+
+![08_LOG](https://github.com/moiseschiaretto/Robot_API/assets/84775466/80fd9443-0773-4449-b683-86bcbac978e7)
+
+
+
+![08_REPORT](https://github.com/moiseschiaretto/Robot_API/assets/84775466/22e2996f-243b-4f10-af52-2bdafe7e1a5f)
+
+
+
