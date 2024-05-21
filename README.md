@@ -117,6 +117,7 @@ robotframework>=7.0
 robotframework-requests>=0.9.7
 
 
+
 **5. API REST**
 
 https://github.com/serverest/serverest?tab=readme-ov-file
@@ -126,9 +127,15 @@ https://github.com/serverest/serverest?tab=readme-ov-file
 
 https://serverest.dev/#/Usu%C3%A1rios/post_usuarios
 
+
 **- Método POST**
 
 ![09_API_POST](https://github.com/moiseschiaretto/Robot_API/assets/84775466/c6db26e1-8ba1-477e-91e8-6ece6efef36b)
+
+
+**- Status Code = 201   "Cadastro com sucesso"**
+
+**- Status Code = 400   "E-mail já cadastrado"**
 
 
 ![10_API_POST](https://github.com/moiseschiaretto/Robot_API/assets/84775466/850cced0-24f3-42ca-8fb2-7676ddc9221a)
@@ -136,7 +143,11 @@ https://serverest.dev/#/Usu%C3%A1rios/post_usuarios
 
 **- Método GET ID**
 
+**- Status Code = 200   "Usuário encontrado"**
+
+
 ![11_GET_ID](https://github.com/moiseschiaretto/Robot_API/assets/84775466/2574c74d-d893-492d-aece-c94b36fc8fa3)
+
 
 
 
