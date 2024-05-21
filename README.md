@@ -143,7 +143,7 @@ https://serverest.dev/#/Usu%C3%A1rios/post_usuarios
 
 **- Método GET ID**
 
-**- Status Code = 200   "Usuário encontrado"**
+**- Status Code = 200    "Usuário encontrado"**
 
 
 ![11_GET_ID](https://github.com/moiseschiaretto/Robot_API/assets/84775466/2574c74d-d893-492d-aece-c94b36fc8fa3)
