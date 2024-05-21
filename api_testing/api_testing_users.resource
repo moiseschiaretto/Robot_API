@@ -59,9 +59,9 @@ Consultar os dados do novo usuário
     Log   ${response_get.json()}
 
     Set Test Variable  ${RESP_GET}  ${response_get.json()}
+    Log   ${RESP_GET}
 
 Conferir os dados retornados
-    Log   ${RESP_GET}
     Dictionary Should Contain Item    ${RESP_GET}    nome            Fulano da Silva
     Dictionary Should Contain Item    ${RESP_GET}    email           ${RESP_GET["email"]}
     Dictionary Should Contain Item    ${RESP_GET}    password        12345
