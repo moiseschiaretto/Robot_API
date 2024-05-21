@@ -172,7 +172,7 @@ https://serverest.dev/#/Usu%C3%A1rios/post_usuarios
 
 - Caminho do arquivo "api_users.robot":
 
-**/Robot_API/tests**
+  **/Robot_API/tests**
 
 - Contém os cenários de testes a serem executados.
 
