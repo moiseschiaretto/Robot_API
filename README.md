@@ -310,7 +310,8 @@ robot -d ./log ./tests/api_users.robot
 ```
 
 
-![06_Execucao_OK](https://github.com/moiseschiaretto/Robot_API/assets/84775466/a9af666b-0b53-4338-9824-07281306bd16)
+![06_Execucao_OK](https://github.com/moiseschiaretto/Robot_API/assets/84775466/949aae2e-704c-40b8-84a6-ce190764a2c5)
+
 
 
 
