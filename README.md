@@ -20,7 +20,7 @@
 
 
 
-## Estrutura do Projeto "Robot Web"
+## Estrutura do Projeto "Robot API"
 
 
 ![03_Estrutura_Projeto](https://github.com/moiseschiaretto/Robot_API/assets/84775466/7dbbe213-5058-4ee6-af98-7487be90f1bf)
