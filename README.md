@@ -2,7 +2,7 @@
 
 - Autor Moisés Ademir Chiaretto
   
-- Descrição das explicações de cada item da 'estrutura do projeto "Robot API REST" desenvolvido' em Robot Framework com a IDE PyCharm.
+- Descrição das explicações de cada item da 'estrutura do projeto **"Robot API REST"** desenvolvido' em Robot Framework com a IDE PyCharm.
 
 - Objetivo acessar um site Web, navegar pela página e realizar um pesquisa de um produto.
 
