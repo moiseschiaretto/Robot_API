@@ -14,8 +14,8 @@
 
 
 
-
 ![BDD_SEM_E_COM_FALHA](https://github.com/moiseschiaretto/Robot_API/assets/84775466/df39eecb-4be3-4e79-af27-abe5612d55e6)
+
 
 
 - Site oficial do Robot Framework:
@@ -217,11 +217,6 @@ https://serverest.dev/#/Usu%C3%A1rios/post_usuarios
 
 
 
-![17_TDD](https://github.com/moiseschiaretto/Robot_API/assets/84775466/713224ed-abb4-4d4a-bef5-4caa17a0efec)
-
-
-
-
 ```
 
 *** Settings ***
@@ -255,6 +250,12 @@ Cenário 03: Consultar os dados de um novo usuário
   **/Robot_Web/api_testing_users**
 
 - Contém o código (keyword) do Robot Framework que será executado de acordo com o BDD, os cenários de testes.
+
+
+
+![17_TDD](https://github.com/moiseschiaretto/Robot_API/assets/84775466/82ba3d85-e584-4ed6-952a-f69ad962aefc)
+
+
 
 ```
 
