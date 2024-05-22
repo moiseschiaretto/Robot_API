@@ -249,7 +249,7 @@ Cenário 03: Consultar os dados de um novo usuário
 
   **/Robot_Web/api_testing_users**
 
-- Contém o código (keyword) do Robot Framework que será executado de acordo com o BDD, os cenários de testes.
+- Contém o TDD, ou seja, o código (keyword) do Robot Framework que será executado de acordo com o BDD, os cenários de testes.
 
 
 
