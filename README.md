@@ -4,13 +4,16 @@
   
 - Descrição das explicações de cada item da 'estrutura do projeto **"Robot API REST"** desenvolvido' em Robot Framework com a IDE PyCharm.
 
-- Objetivo acessar um site Web, navegar pela página e realizar um pesquisa de um produto.
+- Objetivo é realizar um cadastro de usuário via API REST com o método POST, aguardando status code =200, e na sequência tentar cadastrar o mesmo usuário com o mesmo método, aguardando o status code = 400. E após realizar uma pesquisa especifica do usuário cadastrado com o método GET ID, aguardando o status code = 200.
 
     - Cenário 01: Cadastrar um novo usuário com sucesso na ServeRest
  
     - Cenário 02: Cadastrar um usuário já existente
  
     - Cenário 03: Consultar os dados de um novo usuário
+
+
+![BDD_SEM_E_COM_FALHA](https://github.com/moiseschiaretto/Robot_API/assets/84775466/df39eecb-4be3-4e79-af27-abe5612d55e6)
 
 
 - Site oficial do Robot Framework:
@@ -112,10 +115,13 @@ pip list
 
 Informar neste arquivo todas as bibliotecas a serem instaladas e as versões, exemplos:
 
+```
+
 robotframework>=7.0
 
 robotframework-requests>=0.9.7
 
+```
 
 
 **5. API REST**
@@ -206,6 +212,10 @@ https://serverest.dev/#/Usu%C3%A1rios/post_usuarios
     - Cenário 02: Cadastrar um usuário já existente
  
     - Cenário 03: Consultar os dados de um novo usuário
+
+
+![18_TDD](https://github.com/moiseschiaretto/Robot_API/assets/84775466/c2673eba-f9f3-462e-b234-3cc295768486)
+
 
 
 ```
