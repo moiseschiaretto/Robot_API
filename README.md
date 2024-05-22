@@ -13,6 +13,8 @@
     - Cenário 03: Consultar os dados de um novo usuário
 
 
+
+
 ![BDD_SEM_E_COM_FALHA](https://github.com/moiseschiaretto/Robot_API/assets/84775466/df39eecb-4be3-4e79-af27-abe5612d55e6)
 
 
