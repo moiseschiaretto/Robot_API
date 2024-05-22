@@ -216,7 +216,9 @@ https://serverest.dev/#/Usu%C3%A1rios/post_usuarios
     - Cenário 03: Consultar os dados de um novo usuário
 
 
-![18_TDD](https://github.com/moiseschiaretto/Robot_API/assets/84775466/c2673eba-f9f3-462e-b234-3cc295768486)
+
+![17_TDD](https://github.com/moiseschiaretto/Robot_API/assets/84775466/713224ed-abb4-4d4a-bef5-4caa17a0efec)
+
 
 
 
