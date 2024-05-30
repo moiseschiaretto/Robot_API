@@ -4,7 +4,7 @@
   
 - Descrição das explicações de cada item da 'estrutura do projeto **"Robot API REST"** desenvolvido' em Robot Framework com a IDE PyCharm.
 
-- Objetivo é realizar um cadastro de usuário via API REST com o **método POST**, aguardando **o status code =201 "Cadastro com sucesso"**, e na sequência tentar cadastrar o mesmo usuário com o mesmo método, aguardando **o status code = 400   "E-mail já cadastrado"**. E após realizar uma pesquisa especifica do usuário cadastrado com o **método GET ID**, aguardando **o status code = 200    "Usuário encontrado".**
+- O objetivo é realizar um cadastro de usuário via API REST com o **método POST**, aguardando **o status code =201 "Cadastro com sucesso"**, e na sequência tentar cadastrar o mesmo usuário com o mesmo método, aguardando **o status code = 400   "E-mail já cadastrado"**. E após realizar uma pesquisa especifica do usuário cadastrado com o **método GET ID**, aguardando **o status code = 200    "Usuário encontrado".**
 
     - Cenário 01: Cadastrar um novo usuário com sucesso na ServeRest
  
