@@ -16,12 +16,6 @@
 
 ![BDD_SEM_E_COM_FALHA](https://github.com/moiseschiaretto/Robot_API/assets/84775466/df39eecb-4be3-4e79-af27-abe5612d55e6)
 
-
-
-- Site oficial do Robot Framework:
-
-  https://robotframework.org
-  
 <br>
 
 |Node.js        |Python       |IDE VSCode			|Robot          |API          |JSON          |
