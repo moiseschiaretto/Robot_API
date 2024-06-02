@@ -30,9 +30,9 @@
 
 <br>
 
-|Node.js        |Python       |IDE VSCode			|Robot          |API          |JSON          |
-|---------------|-------------|---------------|---------------|-------------|--------------|
-| <img width="93" alt="02_Node_JS" src="https://github.com/moiseschiaretto/Robot_API/assets/84775466/b6057426-da3d-4353-833d-356a705f6170"> | ![04_Python](https://github.com/moiseschiaretto/Robot_API/assets/84775466/126bd197-35be-487d-9f0a-4002890de8e1) | ![VS_CODE](https://github.com/moiseschiaretto/Robot_API/assets/84775466/6da38263-ac83-4425-8b88-eed92fe4e7c3) | ![11_Logo_Robot_Frame_Work](https://github.com/moiseschiaretto/Robot_API/assets/84775466/526870ab-6b12-4476-9952-3c1d8b7eca4f) | ![10_API_REST](https://github.com/moiseschiaretto/Robot_API/assets/84775466/60d67d8f-31e1-4701-86ad-e5d9f154960b) | <img width="164" alt="04_JSON" src="https://github.com/moiseschiaretto/Robot_API/assets/84775466/85688582-1624-4f7a-9573-bd049750b5a2"> |
+|Python       |IDE PyCharm		|Robot          |API          |JSON          |
+|-------------|---------------|---------------|-------------|--------------|
+| ![04_Python](https://github.com/moiseschiaretto/Robot_API/assets/84775466/126bd197-35be-487d-9f0a-4002890de8e1) | <img width="194" alt="PyCharm" src="https://github.com/moiseschiaretto/Robot_API/assets/84775466/e3ae4558-681b-44d0-ac54-b0e79cde3941"> | ![11_Logo_Robot_Frame_Work](https://github.com/moiseschiaretto/Robot_API/assets/84775466/526870ab-6b12-4476-9952-3c1d8b7eca4f) | ![10_API_REST](https://github.com/moiseschiaretto/Robot_API/assets/84775466/60d67d8f-31e1-4701-86ad-e5d9f154960b) | <img width="164" alt="04_JSON" src="https://github.com/moiseschiaretto/Robot_API/assets/84775466/85688582-1624-4f7a-9573-bd049750b5a2"> |
 <br>
 
 
