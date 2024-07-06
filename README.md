@@ -45,8 +45,21 @@
 https://www.python.org/downloads/
 
 ![04_Python](https://github.com/moiseschiaretto/Robot_API/assets/84775466/82789a0a-38ac-463b-bd16-762ae36e9d7e)
+<br>
+
+1.3. Ao instalar o Python selecionar as seguintes opções para o Python ser adicionar as Variáveis de Ambiente do Sistema Operacional Windows.
+
+- Use admin privileges when installing py.exe
+
+- Add python.exe to PATH
 
 
+<img width="493" alt="04_Python_PATH_ADD_VARIAVEIS_AMBIENTE_SO" src="https://github.com/moiseschiaretto/Robot_API/assets/84775466/7c1fd713-6fdf-43b1-80a0-43a4379298cd">
+
+<img width="409" alt="04_PATH_Duas_PYTHON312_SCRIPTS" src="https://github.com/moiseschiaretto/Robot_API/assets/84775466/88581bee-fe3d-4317-91cf-fcfb090abee2">
+
+
+<br>
 
 **2. Instalação do Robot FrameWork**
 
