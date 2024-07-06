@@ -54,14 +54,16 @@ https://www.python.org/downloads/
 - Add python.exe to PATH
 
 <br>
+<br>
 
 <img width="493" alt="04_Python_PATH_ADD_VARIAVEIS_AMBIENTE_SO" src="https://github.com/moiseschiaretto/Robot_API/assets/84775466/7c1fd713-6fdf-43b1-80a0-43a4379298cd">
 
 <br>
+<br>
 
 <img width="409" alt="04_PATH_Duas_PYTHON312_SCRIPTS" src="https://github.com/moiseschiaretto/Robot_API/assets/84775466/88581bee-fe3d-4317-91cf-fcfb090abee2">
 
-
+<br>
 <br>
 
 **2. Instalação do Robot FrameWork**
