@@ -21,7 +21,8 @@
 ## Estrutura do Projeto "Robot API"
 
 
-![03_Estrutura_Projeto](https://github.com/moiseschiaretto/Robot_API/assets/84775466/7dbbe213-5058-4ee6-af98-7487be90f1bf)
+<img width="162" alt="03_Estrutura_Projeto" src="https://github.com/user-attachments/assets/cb00be51-fc8d-436f-a588-b922279e2693">
+
 
 
 ***
